@@ -1,76 +1,48 @@
-\# Banking Analysis Dashboard
+🏦 Banking Analysis Dashboard
 
+📌 Project Overview
 
+The Banking Analysis Dashboard is an interactive Business Intelligence project developed using **Microsoft Power BI**. It focuses on analyzing banking data to explore customer behavior, financial performance, and transaction trends through meaningful visualizations.
 
-\## Project Overview
+🛠️ Tools & Technologies
 
-An interactive Banking Analytics Dashboard developed using Microsoft Power BI to analyze banking data, customer behavior, financial performance, and transaction trends.
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Cleaning and Transformation
+- Data Visualization
 
+📊 Key Analysis Areas
 
+- Customer Analysis
+- Account and Transaction Analysis
+- Banking Performance Indicators
+- Financial Trends
+- Business Performance Insights
 
-\## Tools \& Technologies
+🎯 Project Objectives
 
-\- Microsoft Power BI
+- Analyze banking data to identify meaningful patterns.
+- Understand customer and transaction trends.
+- Monitor important banking performance indicators.
+- Present financial information through interactive visualizations.
+- Support data-driven business understanding.
 
-\- Power Query
+🖼️ Dashboard Preview
 
-\- DAX
+![Banking Analysis Dashboard](Dashboard-Overview.png)
 
-\- Data Cleaning
+💡 Skills Demonstrated
 
-\- Data Visualization
+- Data Analysis
+- Data Cleaning and Transformation
+- Power BI Dashboard Development
+- Business Intelligence
+- Data Visualization
+- Analytical Thinking
 
+👩‍💻 Author
 
+**Akanksha Pawar**
 
-\## Key Analysis Areas
-
-\- Customer analysis
-
-\- Account and transaction analysis
-
-\- Banking performance indicators
-
-\- Financial trends
-
-\- Data-driven business insights
-
-
-
-\## Dashboard Preview
-
-
-
-!\[Banking Analysis Dashboard](Dashboard-Overview.png)
-
-
-
-\## Project Objectives
-
-\- Analyze banking data to identify meaningful patterns.
-
-\- Understand customer and transaction trends.
-
-\- Monitor important banking performance indicators.
-
-\- Present financial insights through interactive visualizations.
-
-
-
-\## Skills Demonstrated
-
-\- Data Analysis
-
-\- Data Transformation
-
-\- Dashboard Development
-
-\- Business Intelligence
-
-\- Data Visualization
-
-
-
-\## Author
-
-Akanksha Pawar
-
+[GitHub](https://github.com/AKANKSHASUBHASHPAWAR)
