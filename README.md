@@ -1,10 +1,10 @@
-🏦 Banking Analysis Dashboard
+# Banking Analysis Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Banking Analysis Dashboard is an interactive Business Intelligence project developed using **Microsoft Power BI**. It focuses on analyzing banking data to explore customer behavior, financial performance, and transaction trends through meaningful visualizations.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -12,7 +12,7 @@ The Banking Analysis Dashboard is an interactive Business Intelligence project d
 - Data Cleaning and Transformation
 - Data Visualization
 
-📊 Key Analysis Areas
+## 📊 Key Analysis Areas
 
 - Customer Analysis
 - Account and Transaction Analysis
@@ -20,7 +20,7 @@ The Banking Analysis Dashboard is an interactive Business Intelligence project d
 - Financial Trends
 - Business Performance Insights
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze banking data to identify meaningful patterns.
 - Understand customer and transaction trends.
@@ -28,11 +28,11 @@ The Banking Analysis Dashboard is an interactive Business Intelligence project d
 - Present financial information through interactive visualizations.
 - Support data-driven business understanding.
 
-🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
- ![Banking Analysis Dashboard](Dashboard-Overview.jpeg)
+![Banking Analysis Dashboard](Dashboard-Overview.jpeg)
 
-💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 
 - Data Analysis
 - Data Cleaning and Transformation
@@ -41,7 +41,7 @@ The Banking Analysis Dashboard is an interactive Business Intelligence project d
 - Data Visualization
 - Analytical Thinking
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 **Akanksha Pawar**
 
