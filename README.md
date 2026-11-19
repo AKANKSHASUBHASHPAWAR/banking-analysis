@@ -30,7 +30,7 @@ The Banking Analysis Dashboard is an interactive Business Intelligence project d
 
 🖼️ Dashboard Preview
 
-![Banking Analysis Dashboard](Dashboard-Overview.png)
+[Banking Analysis Dashboard](https://github.com/AKANKSHASUBHASHPAWAR/banking-analysis/blob/main/Dashboard-Overview.png)
 
 💡 Skills Demonstrated
 
