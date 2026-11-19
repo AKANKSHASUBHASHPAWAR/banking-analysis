@@ -29,7 +29,6 @@ The Banking Analysis Dashboard is an interactive Business Intelligence project d
 - Support data-driven business understanding.
 
 🖼️ Dashboard Preview
-
 ![Banking Analysis Dashboard](Dashboard-Overview.png)
 
 💡 Skills Demonstrated
